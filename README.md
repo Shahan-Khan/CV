@@ -11,3 +11,6 @@ This is a simple portfolio website created using HTML and CSS. The portfolio sho
 - **Projects Section:** Showcase of your projects with descriptions and links.
 - **Skills Section:** A list of your skills and proficiencies.
 - **Contact Section:** A form for visitors to get in touch with you.
+  
+### Live Demo
+You can check out the portfolio by clicking on https://shahan-khan.github.io/CV/
